@@ -7,14 +7,14 @@ package principal;
 /**
  *
  * @author victo
- */
+ */ //importando bibliotecas
 import java.util.Scanner;
 import model.Triangulo;
 
 public class Principal {
 
     public static void main(String[] args) {
-        
+        //projeto puxando biblioteca de model
         Scanner leitor = new Scanner(System.in);
         Triangulo trill = new Triangulo();
         
