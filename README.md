@@ -1,2 +1,2 @@
 # ProjetoTriangulo
-Calculo de um Triangulo usando usando POO.
+Calculo de um Triangulo usando POO.
