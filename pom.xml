@@ -10,4 +10,5 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>com.mycompany.projetotriangulo.ProjetoTriangulo</exec.mainClass>
     </properties>
+    <name>Projeto_Triangulo</name>
 </project>
